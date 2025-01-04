@@ -150,7 +150,7 @@ Based on the charts, the Consumer segment is the most profitable, achieving the 
 
 ![p_runningprofit.png](/SuperstoreGiantDataAnalysis/images/p_runningprofit.png)
 
-  3. Lastly, I highlighted the Products that contribute 80& of the Total Profit.
+  3. Lastly, I highlighted the Products that contribute 80% of the Total Profit.
 
 ![p_cumulative.png](/SuperstoreGiantDataAnalysis/images/p_cumulative.png)
 
