@@ -142,3 +142,22 @@ Based on the charts, the Consumer segment is the most profitable, achieving the 
 
 ### 📊 Pareto Analysis
 
+  1. Firstly, I listed all the Product Name and ranked them according from largest to lowest profit.
+
+![p_listingproducts.png](/SuperstoreGiantDataAnalysis/images/p_listingproducts.png)
+
+  2. Secondly, I applied the running total to see the Products that contribute to the 80% Total Profit.
+
+![p_runningprofit.png](/SuperstoreGiantDataAnalysis/images/p_runningprofit.png)
+
+  3. Lastly, I highlighted the Products that contribute 80& of the Total Profit.
+
+![p_cumulative%.png](/SuperstoreGiantDataAnalysis/images/p_cumulative%.png)
+
+### 💡 Insights:
+
+A Pareto Analysis of the product portfolio indicates that 9% of the products (out of 1850 products, only 166) as highlighted in the accompanying table, contribute to 80% of the business’s total profit. These high-performing products represent a critical subset of the portfolio and should be prioritized for strategic focus, including marketing, inventory management, and resource allocation, to maximize their impact on overall profitability.
+
+### Conclusion
+
+In conclusion, the Superstore Giant should prioritize the Technology category, with particular emphasis on the high-performing Copiers product. The Western and Eastern regions demonstrate the strongest profitability, with California and New York standing out as the top-performing states. Additionally, the Consumer segment emerges as the most profitable customer group, underscoring its importance for sustained growth and strategic focus.
