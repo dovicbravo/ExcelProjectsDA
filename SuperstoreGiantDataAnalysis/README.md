@@ -154,9 +154,13 @@ Based on the charts, the Consumer segment is the most profitable, achieving the 
 
 ![p_cumulative.png](/SuperstoreGiantDataAnalysis/images/p_cumulative.png)
 
+Out of 1850 products, only 166 contribute to 80% Total Profit.
+
+![p_nine.png](/SuperstoreGiantDataAnalysis/images/p_nine.png)
+
 ### 💡 Insights:
 
-A Pareto Analysis of the product portfolio indicates that 9% of the products (out of 1850 products, only 166) as highlighted in the accompanying table, contribute to 80% of the business’s total profit. These high-performing products represent a critical subset of the portfolio and should be prioritized for strategic focus, including marketing, inventory management, and resource allocation, to maximize their impact on overall profitability.
+A Pareto Analysis of the product portfolio indicates that 9% of the products as highlighted in the accompanying table, contribute to 80% of the business’s total profit. These high-performing products represent a critical subset of the portfolio and should be prioritized for strategic focus, including marketing, inventory management, and resource allocation, to maximize their impact on overall profitability.
 
 ## Conclusion
 
