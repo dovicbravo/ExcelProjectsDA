@@ -124,3 +124,21 @@ Additionally, the states of California and New York, located within the Western 
 
 ### 📊 Segment
 
+I created a chart of Total Sales and Profit by Segment
+
+![s_totalsalesandprofit.png](/SuperstoreGiantDataAnalysis/images/s_totalsalesandprofit.png)
+
+I created a chart of Total Profit by Segment per Region
+
+![s_totalprofitbysegment.png](/SuperstoreGiantDataAnalysis/images/s_totalprofitbysegment.png)
+
+I created a shart showing Average Discount combined with Total Sales per Region
+
+![s_totalsalesbydiscount.png](/SuperstoreGiantDataAnalysis/images/s_totalsalesbydiscount.png)
+
+### 💡 Insights:
+
+Based on the charts, the Consumer segment is the most profitable, achieving the highest profit margin with an average discount of 15.5%. In contrast, the Home Office segment reports the lowest profit despite maintaining a slightly lower average discount of 14.5%. This suggests that factors beyond discounting, such as product mix or sales volume, may be impacting the profitability of the Home Office segment and require further investigation.
+
+### 📊 Pareto Analysis
+
