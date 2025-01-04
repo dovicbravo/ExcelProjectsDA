@@ -50,6 +50,22 @@ The data consists of the following Variables/Columns:
 
 I used **Pivot Table** to summarize, analyze, and visualize the dataset.
 
+In this data analysis, **Comparison, Ranking, and Pareto Analysis** were used.
+
+**Comparison Analysis**
+  - Comparing the value of one item against another
+  - Understanding which value is the highest and the lowest and how much larger one value to another
+  - Used column and bar graphs
+
+**Ranking Analysis**
+  - Understanding the ranking order of items
+  - Perform Top/Bottom 10 analysis
+  - Calculating rankings
+
+**Pareto Analysis**
+  - Recognizing disproportional relationships exist between items
+  - 80/20 rule
+  
 ### 📊 Products and Categories
 
 I created Key Metrics to measure the performance of the business. I also created a DAX to calculate the overall Profit Ratio of the business.
@@ -105,4 +121,6 @@ I created a chart showing the Top 10 State with the highest profit.
 Based on the charts,the Western and Eastern regions are generating the highest profit while maintaining low average discount rates, indicating effective pricing strategies in these areas. In contrast, the Central region applies the highest average discounts but fails to generate profit, particularly within the Furniture category, which reports negative profitability.
 
 Additionally, the states of California and New York, located within the Western and Eastern regions respectively, contribute the highest profit by state. This further underscores the strong performance of these regions and suggests that they may serve as benchmarks for optimizing strategies in underperforming regions.
+
+### 📊 Segment
 
